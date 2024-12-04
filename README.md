@@ -20,7 +20,7 @@ The test aims to evaluate whether moving the progression gate from level 30 to l
 ## Conclusion
 Based on the analysis, the results show no meaningful or statistically significant improvement in the total Cookie Cats game rounds when moving the progression from level 30 to level 40.
 
-The 95% confidence interval (-3.7197, 1.4047) includes zero (which means that the true difference between the two groups could be zero), and the p-value of 0.3759 further supports the conclusion that there is no significant difference between the control (gate_30) and test (gate_40) groups.
+The 95% confidence interval (-17.7677, 15.4527) includes zero (which means that the true difference between the two groups could be zero), and the p-value of 0.3759 further supports the conclusion that there is no significant difference between the control (gate_30) and test (gate_40) groups.
 
 Additionally, our guardril metrics (retention at 1 and 7 days) declined in the test group to 0.442283 for 1 day and 0.182000 for 7 days, compared to the control group which the retention was 0.448188 for 1 day and 0.190201 for 7 days, suggesting a potential negative impact on player engagement.
 
